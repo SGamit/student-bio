@@ -1,0 +1,19 @@
+
+h1 {
+    color: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*
+Classes are mostly used for things
+that we repeat many times
+*/
+.first {
+    color: blue;
+}
+/*
+    ID's are for one of specific items
+    Best practice is to only use it once
+*/
